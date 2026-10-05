@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/e23609c1-17da-4e04-b9a1-11e2c4df7aaa
 2. Launch it manually by double-clicking the file.
 3. *(Optional)* To run it automatically when Windows starts, press `Win + R`, type `shell:startup`, hit enter, and place a shortcut to the script in that directory.
 
-### Usage
+### How to Make Telegram Mini Apps Fullscreen on Desktop
 1. Open any Telegram Mini App.
 2. Click inside the Mini App window to make sure it is active.
 3. Press **`F11`** to toggle fullscreen mode.
